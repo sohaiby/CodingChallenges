@@ -1,2 +1,2 @@
 # CodingChallenges
-Coding Challenges from Hackerrank, HackerEarth and CodeSignal
+Coding Challenges from Hackerrank, HackerEarth and CodeSignal in C#
